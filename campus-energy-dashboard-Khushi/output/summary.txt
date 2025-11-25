@@ -1,0 +1,21 @@
+
+CAMPUS ENERGY ANALYSIS REPORT
+=============================
+Date Generated: 2025-11-22 14:47:50.015500
+
+1. GLOBAL STATISTICS
+--------------------
+Total Campus Consumption: 113,000.00 kwh
+Peak Campus Load: 207 kwh occurred at 2025-11-16 12:00:00
+
+2. BUILDING HIGHLIGHTS
+----------------------
+Highest Consuming Building: A_block
+   - Total Usage: 43,507.00 kwh
+   - Average Hourly Usage: 60.43 kwh
+
+3. DATA SUMMARY
+---------------
+Total Buildings Analyzed: 3
+Data Records Processed: 2160
+    
